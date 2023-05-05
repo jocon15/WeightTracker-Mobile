@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WeightTracker</string>
+    <string name="login_title">Welcome To Weight Tracker!</string>
+    <string name="recents_title">Recents</string>
+    <string name="profile_title">Profile</string>
+    <string name="logout_title">Logout</string>
+    <string name="set_goal_title">Set a Goal</string>
+    <string name="add_weight_title">Add or Edit a Weight</string>
+
+    <string name="username_example">username</string>
+    <string name="password_example">password</string>
+
+    <string name="login_btn_label">Login</string>
+    <string name="create_btn_label">Create</string>
+    <string name="delete_btn_label">Delete</string>
+    <string name="goal_weight_label">Goal Weight</string>
+    <string name="submit_btn_label">Submit</string>
+    <string name="edit_goal_btn_label">Edit</string>
+    <string name="enable_sms_btn_label">Enable</string>
+    <string name="enable_sms_label">Enable Notifications</string>
+    <string name="decimal_hint">195.7</string>
+    <string name="today">Today</string>
+    <string name="notset">not set</string>
+
+    <string name="weight_list_item">%s: %s</string>
+
+    <string name="non_exist_login">Username Does Not Exist!</string>
+    <string name="incorrect_login">Incorrect Login Information!</string>
+    <string name="incorrect_create">Account Creation Failed!</string>
+    <string name="empty_input">Please enter a value!</string>
+
+    <string name="congrats">Congratulations on reaching your goal!</string>
+
+</resources>

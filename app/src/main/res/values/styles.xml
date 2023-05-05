@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BlueText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+
+    <style name="Divider" parent="TextAppearance.AppCompat">
+        <item name="android:background">@color/grey</item>
+    </style>
+</resources>
