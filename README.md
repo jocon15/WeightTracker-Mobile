@@ -4,11 +4,11 @@ The main goal of this project was to create an app to help users track their wei
 ## Screens
 The login screen is the first thing you see when you launch the app. It has the option to login or create an account.
 
-![login](http://https://github.com/jocon15/WeightTracker-Mobile/blob/master/images/login_screen.png)
+![login](https://github.com/jocon15/WeightTracker-Mobile/blob/master/images/login_screen.png)
 
 The home screen is what you are brought to after you login or create an account. You will see any recent entries with other navigational items to launch various activities.
 
-![recents](http://https://github.com/jocon15/WeightTracker-Mobile/blob/master/images/recents_screen.png)
+![recents](https://github.com/jocon15/WeightTracker-Mobile/blob/master/images/recents_screen.png)
 
 The profile screen is where the user can make changes to their information.
 
@@ -16,7 +16,7 @@ From the profile screen, the user can set a goal weight using the set goal scree
 
 The add entry screen is where the user can add, edit, and delete entries.
 
-![add_weight](http://https://github.com/jocon15/WeightTracker-Mobile/blob/master/images/add_weight_screen.png)
+![add_weight](https://github.com/jocon15/WeightTracker-Mobile/blob/master/images/add_weight_screen.png)
 
 Every screen used here has a specific purpose. I leveraged the back button on android phones to limit the amount of on-screen navigational items and therefore reduce clutter.
 
